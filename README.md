@@ -18,4 +18,4 @@ Vízió:
 - Fő funkciók:
   -  Film katalógus: A felhasználók áttekinthetik az aktuálisan vetített filmeket, megtekinthetik a filmek posztereit, szinopszisát, és egyéb részleteket.
   -  Vetítési idők keresése: A filmekhez kapcsolódóan a rendszer megjeleníti a vetítési időpontokat és helyszíneket, melyek között időpont, helyszín, vagy terem szerint szűrhetnek a felhasználók.
-  -  Interaktív ülésrend választó: A felhasználók egy vizuális, interaktív ülésrend alapján választhatják ki a szabad helyeket a moziban - bizonyos szabályok alapján. A szabad helyek színkódoltak (pl. zöld – szabad, piros – foglalt).
+  -  Interaktív ülésrend választó és AI alapú ajánló: A felhasználók egy vizuális, interaktív ülésrend alapján választhatják ki a szabad helyeket a moziban - bizonyos szabályok alapján. Az AI segít a legkelendőbb helyek jelzésében. A helyek színkódoltak (pl. zöld – szabad, piros – foglalt, sárga - ajánlott).
